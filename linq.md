@@ -9,6 +9,7 @@ Any                     | some
 Concat                  | concat
 ForEach                 | forEach
 IndexOf                 | indexOf
+LastIndexOf             | lastIndexOf
 OrderBy                 | sort
 Reverse                 | reverse
 String.Join(str, arr)   | join

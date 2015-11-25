@@ -1,0 +1,27 @@
+{
+  "name": "csharp-to-js",
+  "version": "1.0.0",
+  "description": "C# similar methods in Javascript",
+  "main": "samples.js",
+  "scripts": {
+    "test": "./node_modules/.bin/mocha samples.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brunolm/csharp-to-js.git"
+  },
+  "keywords": [
+    "c#",
+    "javascript"
+  ],
+  "author": "BrunoLM <brunolm7@gmail.com> (http://codingwise.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/brunolm/csharp-to-js/issues"
+  },
+  "homepage": "https://github.com/brunolm/csharp-to-js#readme",
+  "dependencies": {
+    "assertsharp": "^1.0.1",
+    "mocha": "^2.3.4"
+  }
+}
